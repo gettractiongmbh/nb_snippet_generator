@@ -1,0 +1,13 @@
+name: sg-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - requests
+  - beautifulsoup4
+  - google-api-python-client
+  - appmode
+  - ipywidgets
+  - jupyter_contrib_nbextensions
