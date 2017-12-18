@@ -1,5 +1,5 @@
 # nb_snippet_generator
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gettractiongmbh/nb_snippet_generator/master?urlpath=%2Fapps%2Fsnippet_generator_v1.0.1.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gettractiongmbh/nb_snippet_generator/master?urlpath=%2Fapps%2Fsnippet_generator_nb.ipynb)
 
 SEO Snippet Generator via Jupyter Notebook, Ipywidgets und Appmode.
 
