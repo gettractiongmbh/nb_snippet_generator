@@ -11,3 +11,4 @@ dependencies:
   - appmode
   - ipywidgets
   - jupyter_contrib_nbextensions
+  - tkinter
