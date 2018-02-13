@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python
   - pandas
-  - Tkinter
   - matplotlib
   - requests
   - beautifulsoup4
